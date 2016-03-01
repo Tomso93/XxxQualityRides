@@ -1,4 +1,4 @@
-<<?php
+<?php
 #XQR:xstrnk01
 
 /*
@@ -15,5 +15,5 @@
  function help(){
  }
 
- 
+
  ?>
